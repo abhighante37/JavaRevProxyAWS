@@ -1,4 +1,7 @@
 Java Application Deployment with Reverse Proxy on AWS
+
+
+
 📌 Project Overview
 This project demonstrates the deployment of a Java-based Student Registration Web Application on Amazon Web Services (AWS). The goal is to securely host the application with MySQL database integration and restrict public access using a reverse proxy architecture.
 
